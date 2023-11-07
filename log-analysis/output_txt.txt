@@ -1,0 +1,26 @@
+---
+author: No author.
+tags:
+  - knowledge
+  - comp-sci
+  - projects
+  - FullStack Developer - Udacity
+  - UdacityFullstack_LogAnalysis
+description: No description.
+---
+$ python3.6 log_analysis.py
+
+--- Generating Results ---
+
+** List of the top 3 visited articles **
+"Candidate is jerk, alleges rival" | 338647 views
+"Bears love berries, alleges bear" | 253801 views
+"Bad things gone, say good people" | 170098 views
+
+** List of the top 3 most popular Authors **
+Ursula La Multa | 507594 views
+Rudolf von Treppenwitz | 423457 views
+Anonymous Contributor | 170098 views
+
+** Days Which Errors Exceeded 1% of Total Views **
+Jul 17, 2016 | 2.26% errors
